@@ -1,5 +1,6 @@
+// Анимация для индикатора
 
-  document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
     const links = document.querySelectorAll('.nav a');
     const indicator = document.querySelector('.nav-indicator');
 
