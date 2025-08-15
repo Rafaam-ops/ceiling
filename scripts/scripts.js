@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+// Анимация для индикатора
+>>>>>>> a88cff3e567acbb41616abb45b9ba683ce3d11c0
   document.addEventListener('DOMContentLoaded', () => {
     const links = document.querySelectorAll('.nav a');
     const indicator = document.querySelector('.nav-indicator');
